@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#F9F9F9</color>
+    <color name="textBlue">#2a9d8f</color>
+    <color name="bgColor">#264653</color>
+    <color name="btColorTx">#e76f51</color>
+    <color name="btBgcolor">#e9c46a</color>
+    <color name="lightBrown">#f4a261</color>
+
+</resources>
